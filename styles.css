@@ -1,3 +1,4 @@
+/**********TAG SELECTORS***************/
 body{
     background-color: #EAF6F6;
 }
@@ -16,3 +17,12 @@ h1{
 h3{
     color: #66BFBF;
 }
+
+/************CLASS SELECTORS*******************/
+.circular-image{
+    border-radius: 100%;
+    }
+/*************ID SELECTORS************************/
+/* #profilePic{
+    background-color: rgb(0,0,0);
+    } */
