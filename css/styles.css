@@ -44,7 +44,7 @@ a:hover{
 }
 
 hr{
-    margin: 4em auto 4em auto;
+    margin: 4.3em auto 4.3em auto;
     border:none;
     border-top: 6px dotted;
     height: 0px;
@@ -99,7 +99,7 @@ bottom: 51%;
 #js-skill-img{
     width: 25%;
     float:left;
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 
 #dessert-skill-img{
